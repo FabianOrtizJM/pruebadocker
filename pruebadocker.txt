@@ -1,1 +1,2 @@
+#!/bin/bash
 RUN echo "Hello World"
